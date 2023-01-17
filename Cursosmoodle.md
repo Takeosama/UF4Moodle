@@ -15,3 +15,8 @@
 3- Crearem el cursos afegin una categoria pare
 
 ![Captura de pantalla de 2023-01-17 16-28-50](https://user-images.githubusercontent.com/114423044/212939943-60944789-7422-4300-bec5-37128d8d23ab.png)
+
+4- Resultat dels cursos
+
+![Captura de pantalla de 2023-01-17 16-34-37](https://user-images.githubusercontent.com/114423044/212941394-f46ccfcf-4a67-4a4c-bccf-d3bedcc8cad9.png)
+
