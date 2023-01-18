@@ -53,8 +53,22 @@
 
 7- Fes que Cognom_2_profe sigui professor dels cursos: MP10, MP06 i TUTORIA.
 
+![Captura de pantalla de 2023-01-18 17-25-04](https://user-images.githubusercontent.com/114423044/213235067-23d7bb97-eb8c-468f-9a69-4a4c9aa346d3.png)
+
+![Captura de pantalla de 2023-01-18 17-25-40](https://user-images.githubusercontent.com/114423044/213235265-63edeabf-c576-47df-b268-a52a74f14889.png)
+
+![Captura de pantalla de 2023-01-18 17-26-06](https://user-images.githubusercontent.com/114423044/213235439-acbb3c5f-c429-46b7-b43e-f29e1e1b7ede.png)
 
 8- Fes que Cognom_3_profe sigui professor de tots els cursos.
+
+![Captura de pantalla de 2023-01-18 17-26-52](https://user-images.githubusercontent.com/114423044/213235730-cad12173-6f7a-4540-bcdd-5c374efa7a6d.png)
+
+![Captura de pantalla de 2023-01-18 17-27-18](https://user-images.githubusercontent.com/114423044/213235897-4a91d0f7-5f5c-40f5-8cdb-daa4c1e433e5.png)
+
+![Captura de pantalla de 2023-01-18 17-27-46](https://user-images.githubusercontent.com/114423044/213236097-d26b1ef7-8525-4f08-8f5c-8cf0bb1382af.png)
+
+
+
 
 
 9-Afegeix a tots els alumnes a tots els cursos (els 5).
