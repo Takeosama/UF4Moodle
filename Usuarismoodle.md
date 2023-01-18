@@ -35,6 +35,11 @@
 5- Afegeix un fitxer d'usuaris des de fitxer (4 companys/es de classe) simultàniament carregant un fitxer de dades, com es veu a la imatge.
 
 6- Fes que Cognom_1_profe sigui professor dels cursos: MP04, MP12, MP08 i MP07.
+- Primerament entrarem al curs que volem asignar al profesor, seguidament entrem a l'apartat de ( participantes ) i afegim els usuaris que volem fican-li el rol que necessita. 
+
+![Captura de pantalla de 2023-01-18 17-18-33](https://user-images.githubusercontent.com/114423044/213232446-e03f073c-a766-4fdc-8c7f-b404c26b6b5a.png)
+
+
 
 7- Fes que Cognom_2_profe sigui professor dels cursos: MP10, MP06 i TUTORIA.
 
