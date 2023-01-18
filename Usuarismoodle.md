@@ -45,6 +45,9 @@
 
 ![Captura de pantalla de 2023-01-18 17-21-56](https://user-images.githubusercontent.com/114423044/213233814-88f27115-b0df-4217-b8d8-b4931bbbfb6f.png)
 
+![Captura de pantalla de 2023-01-18 17-23-11](https://user-images.githubusercontent.com/114423044/213234289-018569e7-dbd1-4410-b992-14325ff586e6.png)
+
+![Captura de pantalla de 2023-01-18 17-23-48](https://user-images.githubusercontent.com/114423044/213234536-0eec6e31-a459-4923-81c8-e878f30b6f8a.png)
 
 
 
