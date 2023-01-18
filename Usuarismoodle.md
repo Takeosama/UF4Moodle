@@ -67,7 +67,13 @@
 
 ![Captura de pantalla de 2023-01-18 17-27-46](https://user-images.githubusercontent.com/114423044/213236097-d26b1ef7-8525-4f08-8f5c-8cf0bb1382af.png)
 
+![Captura de pantalla de 2023-01-18 17-28-31](https://user-images.githubusercontent.com/114423044/213236396-0d0f1351-21eb-4a51-a149-4761df0109d8.png)
 
+![Captura de pantalla de 2023-01-18 17-28-55](https://user-images.githubusercontent.com/114423044/213236555-9f6e4009-905a-488a-b268-fbb4aaf4ef79.png)
+
+![Captura de pantalla de 2023-01-18 17-29-18](https://user-images.githubusercontent.com/114423044/213236714-7a3f523e-8366-470d-b8b3-f2dca961cb76.png)
+
+![Captura de pantalla de 2023-01-18 17-29-45](https://user-images.githubusercontent.com/114423044/213236886-208644d5-a87b-4add-a0e7-205166e66970.png)
 
 
 
