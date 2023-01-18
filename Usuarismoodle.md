@@ -85,17 +85,27 @@
 
 11-Què són les Cohorts?
 
+- Són grups de tots els cursos o un curs sansers els seus membres.
 
 12-Perquè serveixen?
 
+ - El propòsit de les cohorts és permetre a tots els membres de la cohort ser matriculats fàcilment en un curs.
 
 13-Què són els grups?
 
+- Són una xifra d'alumnes per poder separar-los per cursos o clases
 
 14-Perquè serveixen?
 
+ - Per tindre una millor distribució
 
 15-Fes dos grups de Aplicacions Web, el A i el B. Mostra els dos grups.
 
+- Entrem en ( Pagina principal) i entrem a ( participantes ) seguit on esta el pleguec seleccionarem grups.
+![Captura de pantalla de 2023-01-18 17-35-45](https://user-images.githubusercontent.com/114423044/213239465-4f6cccb9-36b2-4555-98ea-838b22ee41c7.png)
 
+- Aqui dins podrem crear grups
+![Captura de pantalla de 2023-01-18 17-36-49](https://user-images.githubusercontent.com/114423044/213239900-1eb888e7-36fb-4b6f-9bb4-2be6c62b672f.png)
+
+![Captura de pantalla de 2023-01-18 17-37-24](https://user-images.githubusercontent.com/114423044/213240155-0877b5f3-d290-4608-bbfe-9ca15a8327b6.png)
 
