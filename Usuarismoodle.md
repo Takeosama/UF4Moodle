@@ -81,6 +81,13 @@
 
 
 10-Mostra l'apartat Participants de cada curs.
+- ![Captura de pantalla de 2023-01-18 17-40-07](https://user-images.githubusercontent.com/114423044/213241059-478fb1b9-2e25-4eea-94bd-7ee17c76f607.png)
+- ![Captura de pantalla de 2023-01-18 17-40-36](https://user-images.githubusercontent.com/114423044/213241141-8cfa53dd-3fd4-489e-a78c-67fc4035e7ae.png)
+-![Captura de pantalla de 2023-01-18 17-40-52](https://user-images.githubusercontent.com/114423044/213241210-b7be7c9e-1f39-40fd-a628-15c971b3437f.png)
+- ![Captura de pantalla de 2023-01-18 17-41-15](https://user-images.githubusercontent.com/114423044/213241306-c20b4145-676e-497b-ad5d-46fa76de2b10.png)
+- ![Captura de pantalla de 2023-01-18 17-41-32](https://user-images.githubusercontent.com/114423044/213241368-1e97190e-eb7b-46b9-abdc-6f4053010126.png)
+- ![Captura de pantalla de 2023-01-18 17-42-00](https://user-images.githubusercontent.com/114423044/213241505-4a7c29d4-e3f6-44c1-9ae1-fd98a2fe90c8.png)
+- ![Captura de pantalla de 2023-01-18 17-42-16](https://user-images.githubusercontent.com/114423044/213241572-ddd31539-7169-4ed7-ad76-69805d13845a.png)
 
 
 11-Què són les Cohorts?
