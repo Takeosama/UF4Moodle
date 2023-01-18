@@ -39,6 +39,10 @@
 
 ![Captura de pantalla de 2023-01-18 17-18-33](https://user-images.githubusercontent.com/114423044/213232446-e03f073c-a766-4fdc-8c7f-b404c26b6b5a.png)
 
+![Captura de pantalla de 2023-01-18 17-19-29](https://user-images.githubusercontent.com/114423044/213232872-5f430f2e-55ef-4bb9-85de-e57c28793d7b.png)
+
+![Captura de pantalla de 2023-01-18 17-20-05](https://user-images.githubusercontent.com/114423044/213233037-28b2051f-ca8c-4ff5-8b54-3357017ee5b6.png)
+
 
 
 7- Fes que Cognom_2_profe sigui professor dels cursos: MP10, MP06 i TUTORIA.
