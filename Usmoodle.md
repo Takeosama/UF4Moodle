@@ -47,6 +47,8 @@
 # Cursos:
 
 ### 1- Crea un Curs nou anomenat "Programació amb Python" dins de la categoria 2n curs -> DAM.
+![Captura de pantalla de 2023-01-20 16-52-04](https://user-images.githubusercontent.com/114423044/213743830-82145214-f4c5-4d7b-9d51-a979b28325ff.png)
+
 
 ### 2- Inscriu a tots els alumnes al curs.
 
