@@ -42,3 +42,39 @@
 ![Captura de pantalla de 2023-01-20 16-44-55](https://user-images.githubusercontent.com/114423044/213742307-7ca1b618-99f4-4d64-be15-ef1f1b197bb6.png)
 
 ![Captura de pantalla de 2023-01-20 16-45-39](https://user-images.githubusercontent.com/114423044/213742440-0e225a3e-1419-420d-8a67-60246bd058fa.png)
+
+
+# Cursos:
+
+### 1- Crea un Curs nou anomenat "Programació amb Python" dins de la categoria 2n curs -> DAM.
+
+### 2- Inscriu a tots els alumnes al curs.
+
+### 3- Inscriu a tots els professors al curs.
+
+### 4- Crea un fòrum general de dubtes (el d'anuncis no serveix).
+
+### 5- Fes que dos estudiants fassin consultes al fòrum.
+
+### 6- Contesta les preguntes amb un perfil de professor.
+
+### 7- Crea un tema anomenat "Fonaments de Python".
+
+### 8- Oculta la resta de temes del curs.
+
+### 9- Dins del tema crea una tasca anomenada prova inicial amb 10 preguntes molt bàsiques sobre Python. Pots trobar info aqui.
+
+### 10- Fes que els alumnes contestin la tasca (mínim 3).
+
+### 11- Qualifica la tasca de l'alumnat.
+
+### 12- Mostra les qualificacions de l'alumnat.
+
+### 13- Com a perfil d'alumne mostra la teva qualificació.
+
+### 14- Crea una activitat de consulta amb una pregunta sobre què costa més a l'alumnat sobre el tema del curs amb 4 opcions.
+
+### 15- Com a alumne/a contesta la consulta.
+
+### 16- Com a professor mostra les contestacions de la consulta.
+
