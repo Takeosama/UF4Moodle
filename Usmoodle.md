@@ -30,8 +30,15 @@
 ![Captura de pantalla de 2023-01-20 16-40-41](https://user-images.githubusercontent.com/114423044/213741407-ad30495c-cdb5-428f-aa05-8d2f6b837902.png)
 
 ### 5- Canvia el primer dia de la setmana del calendari a Diumenge.
-- Primerament entrem 
+- Primerament entrem a ( administració del siteo ) i ( calendario )
 ![Captura de pantalla de 2023-01-20 16-41-41](https://user-images.githubusercontent.com/114423044/213741588-39164747-3002-437c-a1d5-818985eee4ee.png)
+
+![Captura de pantalla de 2023-01-20 16-44-00](https://user-images.githubusercontent.com/114423044/213742076-a06bf4c4-d261-4977-9dfc-2be5115f6c31.png)
+
 
 
 ### 6- Fes que només els contactes de l'usuari puguin enviar-li missatges.
+- Entrem a preferencies de perfil 
+![Captura de pantalla de 2023-01-20 16-44-55](https://user-images.githubusercontent.com/114423044/213742307-7ca1b618-99f4-4d64-be15-ef1f1b197bb6.png)
+
+![Captura de pantalla de 2023-01-20 16-45-39](https://user-images.githubusercontent.com/114423044/213742440-0e225a3e-1419-420d-8a67-60246bd058fa.png)
