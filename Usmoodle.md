@@ -16,7 +16,7 @@
 - Entrarem a les preferencies de l'usuari i entrarem a l'apartat de cambi de contrasenya.
 ![Captura de pantalla de 2023-01-20 15-55-29](https://user-images.githubusercontent.com/114423044/213729020-1633716f-425a-4f2f-933f-4004cf8fe75e.png)
 
-
+![Captura de pantalla de 2023-01-20 15-57-08](https://user-images.githubusercontent.com/114423044/213729241-40b6a04c-7c1a-4376-9bca-5a2282ff03e3.png)
 
 ### 3- Canvia el seu idioma preferit a anglès.
 - Entrarem a les preferencies de l'usuari i entrarem a l'apartat de idioma preferit, triem l'idioma i desem .
