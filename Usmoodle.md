@@ -26,9 +26,12 @@
 
 
 ### 4- Oculta el seu mail a usuaris sense permisos.
-
+-Dins de l'apartat de edició de perfil 
+![Captura de pantalla de 2023-01-20 16-40-41](https://user-images.githubusercontent.com/114423044/213741407-ad30495c-cdb5-428f-aa05-8d2f6b837902.png)
 
 ### 5- Canvia el primer dia de la setmana del calendari a Diumenge.
+- Primerament entrem 
+![Captura de pantalla de 2023-01-20 16-41-41](https://user-images.githubusercontent.com/114423044/213741588-39164747-3002-437c-a1d5-818985eee4ee.png)
 
 
 ### 6- Fes que només els contactes de l'usuari puguin enviar-li missatges.
