@@ -79,6 +79,8 @@
 
 
 ### 9- Dins del tema crea una tasca anomenada prova inicial amb 10 preguntes molt bàsiques sobre Python. Pots trobar info aqui.
+![Captura de pantalla de 2023-01-23 16-08-53](https://user-images.githubusercontent.com/114423044/214074454-806c6f30-b7cf-4d13-ad77-85f77e9db293.png)
+
 
 ### 10- Fes que els alumnes contestin la tasca (mínim 3).
 
@@ -93,4 +95,15 @@
 ### 15- Com a alumne/a contesta la consulta.
 
 ### 16- Com a professor mostra les contestacions de la consulta.
+
+
+
+## Plugins:
+Instal·la 2 plugins de Moodle i explica què fan.
+- Aquest deixa la compatibilitat amb el moodle i joomla
+![Captura de pantalla de 2023-01-23 16-18-32](https://user-images.githubusercontent.com/114423044/214080079-633743cb-bcde-4d01-9ff7-33151f15cd81.png)
+
+- Insereix facilment els videos que vulguis.
+![Captura de pantalla de 2023-01-23 16-33-08](https://user-images.githubusercontent.com/114423044/214080439-eb9789a7-f4c9-49b2-a49b-8b19ce35ee74.png)
+
 
