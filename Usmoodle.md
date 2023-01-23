@@ -98,7 +98,7 @@
 
 
 
-## Plugins:
+# Plugins:
 Instal·la 2 plugins de Moodle i explica què fan.
 - Aquest deixa la compatibilitat amb el moodle i joomla
 ![Captura de pantalla de 2023-01-23 16-18-32](https://user-images.githubusercontent.com/114423044/214080079-633743cb-bcde-4d01-9ff7-33151f15cd81.png)
@@ -106,4 +106,7 @@ Instal·la 2 plugins de Moodle i explica què fan.
 - Insereix facilment els videos que vulguis.
 ![Captura de pantalla de 2023-01-23 16-33-08](https://user-images.githubusercontent.com/114423044/214080439-eb9789a7-f4c9-49b2-a49b-8b19ce35ee74.png)
 
+# Personalització del tauler d'usuaris:
+Afegeix a dalt de tot "Cursos visitats recentment".
 
+Afegeix a baix de tot "Usuaris en línia".
