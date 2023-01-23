@@ -61,14 +61,22 @@
 
 
 ### 4- Crea un fòrum general de dubtes (el d'anuncis no serveix).
+![Captura de pantalla de 2023-01-23 15-56-52](https://user-images.githubusercontent.com/114423044/214071398-689ea753-550c-452d-a878-9ee079252591.png)
+
 
 ### 5- Fes que dos estudiants fassin consultes al fòrum.
+![Captura de pantalla de 2023-01-23 16-00-21](https://user-images.githubusercontent.com/114423044/214072357-db7cf0e5-301d-40cc-9ec3-a031e6b5729f.png)
 
 ### 6- Contesta les preguntes amb un perfil de professor.
+![Captura de pantalla de 2023-01-23 16-01-41](https://user-images.githubusercontent.com/114423044/214072669-80dd2a14-5ab1-4463-b4e4-5d595f4c549a.png)
+
 
 ### 7- Crea un tema anomenat "Fonaments de Python".
+![Captura de pantalla de 2023-01-23 16-03-53](https://user-images.githubusercontent.com/114423044/214073246-6db158b6-933f-4575-ace8-cbc45e7298ed.png)
 
 ### 8- Oculta la resta de temes del curs.
+![Captura de pantalla de 2023-01-23 16-04-30](https://user-images.githubusercontent.com/114423044/214073403-06d66e19-1c16-454e-831b-7cf8ac10ce94.png)
+
 
 ### 9- Dins del tema crea una tasca anomenada prova inicial amb 10 preguntes molt bàsiques sobre Python. Pots trobar info aqui.
 
