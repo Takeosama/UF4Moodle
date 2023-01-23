@@ -51,8 +51,14 @@
 
 
 ### 2- Inscriu a tots els alumnes al curs.
+![Captura de pantalla de 2023-01-23 15-52-47](https://user-images.githubusercontent.com/114423044/214070344-b6f1872c-3576-4cac-a85e-800419fc1f9d.png)
+
 
 ### 3- Inscriu a tots els professors al curs.
+
+![Captura de pantalla de 2023-01-23 15-53-26](https://user-images.githubusercontent.com/114423044/214070494-57eca275-0fc9-436c-b060-ac14dafd1d82.png)
+![Captura de pantalla de 2023-01-23 15-53-57](https://user-images.githubusercontent.com/114423044/214070613-457ebf9e-d4fb-4dc5-a741-a9dacbd9218d.png)
+
 
 ### 4- Crea un fòrum general de dubtes (el d'anuncis no serveix).
 
